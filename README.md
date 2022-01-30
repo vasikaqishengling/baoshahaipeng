@@ -4,10 +4,10 @@
 <div align="center">
 
 # RapeSenpai
-**新概念Home游戏**
+**爆杀海鹏**
 </div>
 
 ## 简介
-小游戏：雷普先辈
+小游戏：爆杀海鹏
 
 纯恶搞无恶意。
